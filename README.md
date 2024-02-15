@@ -1,5 +1,8 @@
 # AAP-Impact
 This repository contains scripts for analyzing the impact of the Applicant Assistance Program (AAP). 
+Authors: Katharine L. Korunes*, Ethan C. Cissell*, Tiger Xie, Eva R. Garland**
+*These authors contributed equally.
+**Corresponding Author: Eva R. Garland | eva.garland@evagarland.com | (919) 825-1600
 
 ## Datasets
 - For this study, we retrieved publicly available award outcomes data from the SBIR Award Data database (SBIR.gov) between 2010 and 2022. These data also included demographic information. If a company received an award under majority ownership (at the time of award) by 1) a person who identifies as a woman or 2) a member of an underrepresented minority, the awardee is assigned to be WOSB or SDB, respectively. These data were subset to include only Phase I SBIR grant awards distributed by the NIH. This yielded a dataset of n = 9,458 unique Phase I awards. These data were then subset to include only those awards given by institutes and centers (ICs) that have participated in the NIH AAP (n = 11 ICs), resulting in a final dataset of n = 4,530 unique Phase I awards given by ICs that have participated in the AAP. Enrichment of awards and funding distributed to WOSB and SDB in the AAP was calculated as the mean percent change between within-group percentages of WOSBs and SDBs for funding years 2020 - 2022 (grouped within year; n = 3) between AAP awardees and the general awardee population.
