@@ -1,7 +1,10 @@
 # AAP-Impact
-This repository contains scripts for analyzing the impact of the Applicant Assistance Program (AAP). 
+This repository contains scripts for analyzing the impact of the Applicant Assistance Program (AAP).  
+
 Authors: Katharine L. Korunes*, Ethan C. Cissell*, Tiger Xie, Eva R. Garland**
+
 *These authors contributed equally.
+
 **Corresponding Author: Eva R. Garland | eva.garland@evagarland.com | (919) 825-1600
 
 ## Datasets
